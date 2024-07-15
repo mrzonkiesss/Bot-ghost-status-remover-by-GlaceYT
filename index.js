@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["🔨 GamerModz",".🚀 gg/gamermodz"];
 
 
 let currentIndex = 0;
